@@ -29,5 +29,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BilltheChurch&show_icons=true&locale=en" alt="BilltheChurch" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BilltheChurch&" alt="BilltheChurch" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eta-two.vercel.app?user=BilltheChurch&theme=synthwave" alt="GitHub Streak" /></a>
 
